@@ -23,7 +23,7 @@ The beta release focuses on making data-organization tasks explicit, reviewable,
 
 ## Current features
 
-<img src="./NIM_ModuleSchematic.png" alt="Schematic overview of the NIM Studio modules" width="100%" />
+<img src="./NIM_ModuleSchematic.jpg" alt="Schematic overview of the NIM Studio modules" width="100%" />
 
 ### Research Project Builder
 
