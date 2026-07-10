@@ -51,7 +51,7 @@ Support consistent project organization, dataset documentation, storage review, 
 
 Availability of individual functions may vary between beta builds. The documentation supplied with a build is the authoritative description of that build.
 
-## Design principles
+## Principles
 
 NIM Studio is developed around the following principles:
 
