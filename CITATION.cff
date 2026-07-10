@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: >-
+  If you use NIM Studio in research, please cite the exact version used
+  using the metadata below.
+title: "NIM Studio: Neuroinformatics Management Studio"
+type: software
+version: "0.1.0-beta"
+date-released: "2026-07-10"
+doi: "10.5281/zenodo.21296291"
+
+authors:
+  - family-names: "Monteiro"
+    given-names: "Sara"
+
+abstract: >-
+  NIM Studio (Neuroinformatics Management Studio) is a desktop application
+  for neuroinformatics, research data management, FAIR data stewardship,
+  BIDS-oriented dataset organization, metadata workflows, duplicate auditing,
+  and research infrastructure support. Version 0.1.0-beta is a controlled,
+  closed-source beta release. The associated public repository and Zenodo
+  record provide documentation, citation metadata, and release information;
+  they do not distribute the application source code.
+
+keywords:
+  - "neuroinformatics"
+  - "neuroimaging"
+  - "BIDS"
+  - "FAIR data"
+  - "research data management"
+  - "metadata"
+  - "data governance"
+  - "neuroscience"
