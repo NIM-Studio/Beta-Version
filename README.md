@@ -108,6 +108,7 @@ Suspected vulnerabilities or data-security incidents must be reported privately 
 If NIM Studio contributes to research or a scientific output, cite the exact version used:
 
 >  Monteiro, S. (2026). *NIM Studio: Neuroinformatics Management Studio* (Version 0.1.0-beta) [Computer software]. Closed-source beta release. GitHub. https://github.com/arasorietnom/NIM-Studio/
+
 >  Monteiro, S. (2026). *NIM Studio: Neuroinformatics Management Studio* (Version 0.1.0-beta) [Software documentation]. Zenodo. https://doi.org/10.5281/zenodo.21296291
 
 Machine-readable citation metadata is provided in `CITATION.cff`.
