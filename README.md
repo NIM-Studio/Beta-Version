@@ -21,7 +21,15 @@ The beta release focuses on making data-organization tasks explicit, reviewable,
 
 - Access to the executable application is limited to approved beta participants and is governed by the accompanying beta terms. Public availability of this README or the documentation repository does not grant access to, or a licence for, the application.
 
-## Current capabilities
+## Current features
+
+<p align="center">
+  <img
+    src="NIM_ModuleSchematic.png"
+    alt="Schematic overview of the NIM Studio modules"
+    width="100%"
+  >
+</p>
 
 ### Research Project Builder
 
