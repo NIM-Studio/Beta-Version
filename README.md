@@ -23,7 +23,7 @@ The beta release focuses on making data-organization tasks explicit, reviewable,
 
 ## Current features
 
-<img src="./NIM_ModuleSchematic.jpg" alt="Schematic overview of the NIM Studio modules" width="100%" />
+<img src="./assets/NIM_ModuleSchematic.jpg" alt="Schematic overview of the NIM Studio modules" width="100%" />
 
 ### Research Project Builder
 
@@ -134,3 +134,6 @@ NIM Studio may include third-party components governed by their respective licen
 Approved beta participants should use the private feedback and support channel provided during onboarding.
 
 Questions concerning beta access, research collaboration, licensing, or security should be directed to the official NIM Studio contact channel. A public contact address will be added to this README once confirmed.
+
+<img src="./assets/ICM_logo.jpg" width="100%" />
+
