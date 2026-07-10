@@ -135,5 +135,5 @@ Approved beta participants should use the private feedback and support channel p
 
 Questions concerning beta access, research collaboration, licensing, or security should be directed to the official NIM Studio contact channel. A public contact address will be added to this README once confirmed.
 
-<img src="./assets/ICM_logo.jpg" width="100%" />
+<img src="./assets/ICM_logo.jpg" width="150" />
 
