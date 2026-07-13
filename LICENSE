@@ -69,6 +69,8 @@ Third-Party Components are governed by their respective licences and notices. Th
 
 The Authorized User is responsible for complying with third-party terms applicable to components, services, datasets, standards, or tools they independently connect to NIM Studio.
 
+This restriction does not prohibit acts expressly permitted under an applicable Third-Party Component licence, including acts necessary to modify, debug, replace, or relink an LGPL-covered component.
+
 9. OWNERSHIP AND RESERVED RIGHTS
 
 Subject to third-party rights, the Licensor retains all rights in the original NIM Studio source code, executable code, documentation, user-interface assets, branding, and other original materials. All rights not expressly granted are reserved.
