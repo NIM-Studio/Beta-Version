@@ -8,7 +8,7 @@
 
 **Tools registry:** https://bio.tools/nim-studio
 
-**Wiki:** https://nim-studio.readthedocs.io/en/latest/index.html#
+**Wiki:** https://nim-studio.readthedocs.io/
 
 
 
