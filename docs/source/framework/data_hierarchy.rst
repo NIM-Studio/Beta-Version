@@ -1,7 +1,7 @@
 Data Hierarchy
 ==============
 
-.. figure:: ../_static/NIMdatahierarchy.png
+.. figure:: ../_static/NIMdatahierarchy.jpg
    :align: center
    :width: 100%
 
