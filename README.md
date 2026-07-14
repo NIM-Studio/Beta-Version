@@ -4,6 +4,7 @@
 **Beta version:** 0.1.0-beta  
 **Release date:** 16 June 2026  
 **Documentation DOI:** [10.5281/zenodo.21296291](https://doi.org/10.5281/zenodo.21296291)
+**Wiki** (https://nim-studio.readthedocs.io/en/latest/index.html#)
 
 > NIM Studio is currently closed-source beta software. The public repository and Zenodo record provide documentation, citation metadata, release information, and approved examples; they do not distribute the application source code. Only authorized usage is permitted during beta testing. 
 
