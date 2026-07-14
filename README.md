@@ -6,9 +6,9 @@
 
 **Documentation DOI:** [10.5281/zenodo.21296291](https://doi.org/10.5281/zenodo.21296291)
 
-**Registry** https://bio.tools/nim-studio
+**Tools registry:** https://bio.tools/nim-studio
 
-**Wiki** https://nim-studio.readthedocs.io/en/latest/index.html#
+**Wiki:** https://nim-studio.readthedocs.io/en/latest/index.html#
 
 
 
