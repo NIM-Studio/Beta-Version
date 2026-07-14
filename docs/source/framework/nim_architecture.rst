@@ -11,7 +11,7 @@ The architecture emphasizes transparency, extensibility, and data safety,
 allowing researchers to organize, curate, validate, and audit research data
 without relying on external cloud services.
 
-.. figure:: ../_static/NIMarchitecture.png
+.. figure:: ../_static/NIMarchitecture.jpg
    :align: center
    :width: 100%
 
