@@ -31,7 +31,7 @@ exclude_patterns = []
 
 html_theme = "sphinx_rtd_theme"
 
-html_logo = "_static/NIMicon.jpg"
+html_logo = "_static/NIMicon.png"
 
 html_title = "NIM Studio Documentation"
 
