@@ -1,7 +1,7 @@
 NIM Studio Documentation
 ========================
 
-.. image:: _static/NIMbanner.png
+.. image:: _static/NIMbanner.jpg
    :align: center
    :width: 500px
    :class: nim-home-banner
