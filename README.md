@@ -5,10 +5,13 @@
 **Release date:** 16 June 2026  
 
 **Documentation DOI:** [10.5281/zenodo.21296291](https://doi.org/10.5281/zenodo.21296291)
-
-**Tools registry:** https://bio.tools/nim-studio
-
 **Wiki:** https://nim-studio.readthedocs.io/
+
+Registries:
+**Research Software Registry:** https://research-software-directory.org/software/nim-studio
+**Bio Tools Registry:** https://bio.tools/nim-studio
+
+
 
 
 
